@@ -1,1 +1,16 @@
-﻿<Properties StartupItem="XamarinMapExample.iOS/XamarinMapExample.iOS.csproj" />
+﻿<Properties StartupItem="XamarinMapExample.iOS/XamarinMapExample.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinMapExample.iOS/ViewController.cs">
+    <Files>
+      <File FileName="XamarinMapExample.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamarinMapExample.iOS/ViewController.cs" Line="49" Column="80" />
+      <File FileName="XamarinMapExample.iOS/BasicMapAnnotation.cs" Line="45" Column="1" />
+      <File FileName="XamarinMapExample.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinMapExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C0ADEE3-9ACB-4756-8A30-337C0D0CEC5F" />
+</Properties>
